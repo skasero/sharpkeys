@@ -1,3 +1,6 @@
+## My Fork Changes
+I added the ability to remap the 'Pause' button using the Hex Code ('E1 1D'). 
+
 ## Project Description
 SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key. Included in the application is a list of common keyboard keys and a Type Key feature to automatically recognize most keyboard keys. It was originally developed in C# using .NET v2 but has been updated to support .NET 4.0 Client Profile
 
